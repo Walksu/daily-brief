@@ -1,6 +1,7 @@
 # YYYY-MM-DD
 
-## 标题 · Title
+[返回首页 Back](../README.md)
 
-- 链接 · Link:
-- 为什么留 · Why:
+- [标题 Title](https://example.com)
+  - 中文：为什么留。
+  - English: why it stays.
