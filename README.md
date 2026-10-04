@@ -12,9 +12,23 @@
 
 ## 最新 · Latest
 
-还没有条目。下一次入库会把当天放在这里，并写进年份文件。
+## 2026-10-03
 
-No entries yet. The next filing will sit here, and in the year file.
+- [Beyond the Trace: The Science of Insight Quality](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/beyond-the-trace-the-science-of-insight-quality/4559981)
+  - 中文：可观测性做成可行动发现队列。
+  - English: Observability turned into an actionable discovery queue.
+
+- [Evaluate More, Spend Less: Batching Microsoft Foundry Evaluators for Efficient Evaluation](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluate-more-spend-less-batching-microsoft-foundry-evaluators-for-efficient-eva/4560841)
+  - 中文：一次 judge 打多维，输入 token 降约六到七成。
+  - English: One judge call scores many dimensions and cuts input tokens about 60–70%.
+
+- [Artificial Analysis](https://artificialanalysis.ai/)
+  - 中文：评测机构新的语言模型评测产品线。
+  - English: Artificial Analysis launches a new LM evaluation product line (Optima).
+
+- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+  - 中文：欧向主权开源权重。
+  - English: European sovereign open-weight model Kolibri lands.
 
 ## 关于 · About
 
