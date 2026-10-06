@@ -12,11 +12,32 @@
 
 ## 最新 · Latest
 
-## 2026-10-04
 
-- [ThinkingBox: Evaluating Agents by Final Database State](https://huggingface.co/blog/microsoft/thinkingbox)
-  - 中文：Microsoft 官方评测按数据库终态判分，每个任务重复跑 20 次，说做完不等于做完。
-  - English: Microsoft's official eval scores by final database state and runs each task 20 times; finishing a run is not finishing the task.
+## 2026-10-06
+
+- [Open and emergent problems in agentic privacy and security: a contextual angle](https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/)
+  - 中文：Agent 隐私安全议程与策略引擎。
+  - English: An agenda and policy engine for agent privacy and security.
+
+- [New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/)
+  - 中文：云厂商分发 agent skill。
+  - English: A cloud vendor shipping an agent skill.
+
+- [AWS Continuum penetration testing](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/)
+  - 中文：渗透测试 agent 进 CI/CD。
+  - English: A penetration-testing agent moves into CI/CD.
+
+- [cursor/plugins · pstack](https://github.com/cursor/plugins/tree/main/pstack)
+  - 中文：pstack v0.15.13。
+  - English: pstack v0.15.13.
+
+- [Postdoc position on formal verification and algorithm discovery for numerical analysis](https://terrytao.wordpress.com/2026/10/05/postdoc-position-on-formal-verification-and-algorithm-discovery-for-numerical-analysis/)
+  - 中文：EPFL Lean + AI 算法发现博后岗。
+  - English: EPFL postdoc on Lean plus AI for algorithm discovery.
+
+- [facebook/meta-encoder](https://huggingface.co/facebook/meta-encoder)
+  - 中文：Meta 30B 决策编码器（低权重）。
+  - English: Meta’s 30B decision encoder (low weight).
 
 ## 关于 · About
 
