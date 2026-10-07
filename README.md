@@ -12,6 +12,24 @@
 
 ## 最新 · Latest
 
+## 2026-10-07
+
+- [Building Git infrastructure for agent-scale development](https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/)
+  - 中文：agent 带来的 Git 负载一手数据
+  - English: First-hand Git load data from agents.
+
+- [Stacked pull requests generally available](https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available)
+  - 中文：Stacked PRs GA，agent PR 拆小审
+  - English: Stacked PRs GA; split agent PRs for smaller review.
+
+- [Building a context-aware AI assistant on AgentCore and OpenClaw](https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/)
+  - 中文：开源 agent 接托管运行时，附分层记忆
+  - English: Open-source agents on a managed runtime, with layered memory.
+
+- [ChatGPT (@ChatGPT) on X](https://x.com/ChatGPT/status/2107567930557026653)
+  - 中文：ChatGPT Meetings 把会议上下文接进 Codex（官方号原帖）
+  - English: ChatGPT Meetings feeds meeting context into Codex (official account post).
+
 
 ## 2026-10-06
 
